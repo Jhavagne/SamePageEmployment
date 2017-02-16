@@ -1,0 +1,128 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+body {
+	background: #EEE;
+}
+
+.form-box {
+	width:100%;
+	padding: 80px 0px;
+	background-color:#EEE;
+	border: 10px solid 05baff;
+}
+.wrapper {
+	width:750;
+	height:750;
+	margin: 0 auto;
+}
+.form-box {
+	display: inline-block;
+    vertical-align: top;
+}
+.form-box table {
+		border: 10px solid 05baff;
+}
+table {
+	width: 50%;
+	height:50%;
+	border: 5px solid lightblue;
+	margin-left: auto;
+	margin-right: auto;
+	background: white;
+	position: center;
+}
+table tr {
+	position: center;
+	text-align: center;
+	font-family: :Arial;
+	font-weight: bold;
+	color:lightblue;
+}
+.form-t {
+	border-radius: 6px;
+	width: 40%;
+	height:30px;
+	margin-bottom: 8px;
+	padding:0px 0.5%;
+}
+.form-s {
+	border-radius: 6px;
+	width: 25%;
+	height:30px;
+	margin-bottom: 8px;
+	padding:0px 0.5%;
+}
+.form-st {
+	border-radius: 6px;
+	width: 40%;
+	height:30px;
+	margin-bottom: 8px;
+	padding:0px 0.5%;
+}
+.form-radio  {
+	clear: both;
+	width: 1% !important;
+	height:5px;
+	margin-bottom: 4px;
+	padding:1px 0.5%;
+	border: 0px;
+}
+
+.b {
+	border-radius: 6px;
+	width: 40%;
+	height:40px;
+	margin-bottom: 8px;
+	padding:0px 0.5%;
+	background-color: lightblue;
+	color: white;
+}
+
+header {
+	width:100%;
+	height: 60px;
+	background-color: #222222;
+}
+
+nav ul  {
+	float: right;
+	margin:20px;
+	margin-right: :60px;
+}
+
+nav ul li {
+	list-style: none;
+	float: left;
+	margin-right: 20px;
+}
+
+nav ul li a {
+	color: white;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+nav ul form{
+	float: left;
+	
+}
+
+nav ul form input{
+	float: left;
+	border:none;
+	margin-right: 6px;
+
+}
+nav ul form button{
+	float: left;
+	border:none;
+	margin-right: 20px;
+	background-color: : #fff;
+	color: #222;
+	font-size: 16px;
+	cursor:pointer;
+	
+}
